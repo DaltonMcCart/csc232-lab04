@@ -51,7 +51,9 @@ The source code base for Lab 7 already employs the _Strategy_ pattern and sample
 
 ## Due Date
 
-There is no due date for this lab. This lab is _not graded_ and is distributed just to tap into your own intellectual curiosity.
+There is no due date for this lab. This lab is _not graded_^1 and is distributed just to tap into your own intellectual curiosity.
+
+^1 Well, technically, it will be graded -- everyone that took Quiz 2 during the lab period will receive full credit for this lab.
 
 ## Further Exploration
 
